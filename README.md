@@ -15,11 +15,11 @@ This is the gradle verson of <a href="https://github.com/lucaslouca/spring-archi
 ###Building
 You can run:
 
->```
->gradle build
->```
+```
+gradle build
+```
 
-> Or if you are behind a proxy:
->```
->gradle -Dhttp.proxyHost=proxy.address -Dhttp.proxyPort=80 -Dhttp.proxyUser=myusername -Dhttp.proxyPassword=mypassword build
->```
+Or if you are behind a proxy:
+```
+gradle -Dhttp.proxyHost=proxy.address -Dhttp.proxyPort=80 -Dhttp.proxyUser=myusername -Dhttp.proxyPassword=mypassword build
+```
