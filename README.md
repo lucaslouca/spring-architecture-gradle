@@ -1,6 +1,6 @@
 # spring-architecture-gradle
 
-This is the gradle verson of <a href="https://github.com/lucaslouca/spring-architecture" target="_blank">spring-architecture</a> project.
+This is the <a href="https://www.gradle.org" target="_blank">gradle</a> version of <a href="https://github.com/lucaslouca/spring-architecture" target="_blank">spring-architecture</a> project.
 
 
 ###How to Import into Eclipse
@@ -11,6 +11,8 @@ This is the gradle verson of <a href="https://github.com/lucaslouca/spring-archi
 * Click **Build Model**
 * Select all projects
 * Click **Finish**
+
+Note: You may need <a href="http://marketplace.eclipse.org/content/gradle-integration-eclipse-44" target="_blank">Gradle Integration for Eclipse</a>
 
 ###Building
 You can run:
