@@ -29,7 +29,7 @@ gradle -Dhttp.proxyHost=proxy.address -Dhttp.proxyPort=80 -Dhttp.proxyUser=myuse
 ```
 
 ###References
-<a href="http://www.gradle.org/docs/current/userguide/java_plugin.html" target="_blank">Gradle Java plugin</a>
-<a href="http://www.gradle.org/docs/current/userguide/maven_plugin.html" target="_blank">Gradle Maven plugin</a>
-<a href="http://www.gradle.org/docs/current/userguide/eclipse_plugin.html" target="_blank">Gradle Eclipse plugin</a>
-<a href="http://www.gradle.org/docs/current/userguide/idea_plugin.html" target="_blank">Gradle Idea plugin</a>
+<a href="http://www.gradle.org/docs/current/userguide/java_plugin.html" target="_blank">Gradle Java plugin</a><br>
+<a href="http://www.gradle.org/docs/current/userguide/maven_plugin.html" target="_blank">Gradle Maven plugin</a><br>
+<a href="http://www.gradle.org/docs/current/userguide/eclipse_plugin.html" target="_blank">Gradle Eclipse plugin</a><br>
+<a href="http://www.gradle.org/docs/current/userguide/idea_plugin.html" target="_blank">Gradle Idea plugin</a><br>
