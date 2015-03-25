@@ -11,7 +11,7 @@ This is the <a href="https://www.gradle.org" target="_blank">gradle</a> version 
 * Click **Build Model**
 * Select all projects
 * Click **Finish**
-* Run ``gradle clean`` and ``gradle assemble`` on the ``spring-app`` project
+* Run ``gradle clean`` and ``gradle assemble`` on the **spring-app** project
 
 Note: You may need <a href="http://marketplace.eclipse.org/content/gradle-integration-eclipse-44" target="_blank">Gradle Integration for Eclipse</a>
 
